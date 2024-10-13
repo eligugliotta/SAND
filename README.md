@@ -15,7 +15,7 @@ Additionally, SAND includes an error analysis of the automatic image captioning,
 SAND was created to facilitate comparative analysis of Saudi Arabia's tourism promotion strategies across different target audiences, incorporating both visual and textual data to enable comprehensive multimodal analysis of the country's self-representation in tourism marketing
 
 To access the SAND images, please contact me at **eli.gugliotta@gmail.com**.
-In this repository, you will find SAND data, *i.e.* a file containing both types of text, the natural ones (anonymised posts), and the automatically-generated texts for image captions, as well as their manual validation. 
+In this repository, you will find SAND data, *i.e.* a file containing both types of text, the natural textual ones (anonymised posts), and the automatically-generated texts for image captions, as well as their manual validation. 
 
 Indeed, in the "SAND_texts.tsv" file we provide the following data:
 
@@ -29,12 +29,41 @@ Indeed, in the "SAND_texts.tsv" file we provide the following data:
 
 SAND numbers:
 
-
+<!--
 ||      **TOTAL NUMBER OF POSTS**       ||
-|:---------------:|:-:|:----------------:|
+|:----------------:|:-:|:----------------:|
 |                  |249                 ||
 | **Arabic posts** || **English posts** ||
 |          122     || 127               ||
+-->
+
+
+|                  | **Posts** | **Original Texts (words)** | **Valid. Captions (words)** |
+|:----------------:|:---------:|:--------------------------:|:---------------------------:|
+| **Arabic page**  |    122    |          17,049             |           4,830             |
+| **English page** |    127    |          21,524             |           5,019             |
+| **TOTAL**        |    249    |          38,573             |           9,849             |
+
+
+
+Numbers of Saudi Arabia Self-Narrative Dataset
+
+Post
+Original Texts (words)
+Valid. Captions (words)
+Arabic page
+122
+17.049
+4.830
+English page
+127
+21.524
+5.019
+TOTAL
+249
+38.573
+9.849
+
 
 
 <!---
