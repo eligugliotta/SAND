@@ -13,27 +13,36 @@ visual contents from these posts, with original post texts totaling 38,573 words
 Additionally, SAND includes an error analysis of the automatic image captioning, categorising errors into types such as object recognition, attribution, action, relation, context, and specificity issues. 
 SAND was created to facilitate comparative analysis of Saudi Arabia's tourism promotion strategies across different target audiences, incorporating both visual and textual data to enable comprehensive multimodal analysis of the country's self-representation in tourism marketing
 
-In this repository, you will find SAND images and both kind of text, the natural ones (anonymised textual posts), and the automatically generated texts for image captions, together with their manual validation. 
+To access the SAND images, please contact me at **eli.gugliotta@gmail.com**.
+In this repository, you will find SAND data, *i.e.* a file containing both types of text, the natural ones (anonymised posts), and the automatically-generated texts for image captions, as well as their manual validation. 
+
 Indeed, in the "SAND_texts.tsv" file we provide the following data:
 
-* Image ID. 
-* Original, but anonymised, text being publish together with each picture.
-* Automatically-generated text for image captioning.
-* The manual validation of the previous level.
-* Error analyses.
-* Language classification (En/Ar)
-* Gender classification of image subject (Male/Female/Neutral).
+* Image ID.
+* Original, but anonymised, texts published with each image.
+* Automatically-generated texts for image captioning.
+* Manual validation of the previous level.
+* Error analysis.
+* Language classification (en/ar).
+* Classification by gender of the image subject (male/female/neutral).
 
 SAND numbers:
-
-|**TOTA NUMBER OF POSTS**|         
-|:----------------------:|
-|   	  249		 |       
-|:----------------------:|
-|**ARABIC**:|:**ENGLISH**|
-|   122    :|:	127	 |
-|:----------------------:|
-
+    <table border="1" cellpadding="10" cellspacing="0" style="border-collapse: collapse; text-align: center;">
+        <tr>
+            <th colspan="2">TOTAL NUMBER OF POSTS</th>
+        </tr>
+        <tr>
+            <td colspan="2">249</td>
+        </tr>
+        <tr>
+            <th>Arabic posts</th>
+            <th>English posts</th>
+        </tr>
+        <tr>
+            <td>122</td>
+            <td>127</td>
+        </tr>
+    </table>
 <br />
 
 
