@@ -1,4 +1,5 @@
-# SAND Repository
+# Saudi Arabia Self-Narrative Dataset
+
 
 This repository provides a brief description and houses the Saudi Arabia Self-Narrative Dataset (SAND)
 * [Gugliotta, E. (2024). *Comparative Analysis of Textual and Visual Contents on Saudi Tourism Instagram Pages* forthcoming]()
