@@ -45,64 +45,6 @@ SAND numbers:
 | **TOTAL**        |    249    |          38.573             |           9.849             |
 
 
-
-Numbers of Saudi Arabia Self-Narrative Dataset
-
-Post
-Original Texts (words)
-Valid. Captions (words)
-Arabic page
-122
-17.049
-4.830
-English page
-127
-21.524
-5.019
-TOTAL
-249
-38.573
-9.849
-
-
-
-<!---
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Table Example</title>
-    <style>
-        table {
-            width: 50%;
-            margin: auto;
-            border-collapse: collapse;
-        }
-        th, td {
-            border: 1px solid black;
-            padding: 10px;
-            text-align: center; /* Centro i contenuti delle celle */
-        }
-    </style>
-</head>
-    <table border="1" cellpadding="10" cellspacing="0" style="border-collapse: collapse; text-align: center;">
-        <tr>
-            <th colspan="2">TOTAL NUMBER OF POSTS</th>
-        </tr>
-        <tr>
-            <td colspan="2">249</td>
-        </tr>
-        <tr>
-            <th>Arabic posts</th>
-            <th>English posts</th>
-        </tr>
-        <tr>
-            <td>122</td>
-            <td>127</td>
-        </tr>
-    </table>
-<br />
---->
-
 ### *License*
 
 Attribution-NonCommercial 3.0 Unported (CC BY-NC 3.0)
@@ -123,8 +65,7 @@ Please cite this work as:
 }
 
 ````
-
-
+per decriptare: dovranno istallare gpg se non l'hanno già e poi lanciare questo comando: gpg -d SAND_images.tar.gz.gpg > SAND_images.tar.gz - la password da inserire nella shermata che uscirà è NomeConfANNO - su wp è salavata questa frase con la mot corretta.
 <br />
 -->
 
