@@ -28,6 +28,16 @@ Indeed, in the "SAND_texts.tsv" file we provide the following data:
 * Classification by gender of the image subject (male/female/neutral).
 
 SAND numbers:
+
+
+||      **TOTAL NUMBER OF POSTS**       ||
+|:---------------:|:-:|:----------------:|
+|                  |249                 ||
+| **Arabic posts** || **English posts** ||
+|          122     || 127               ||
+
+
+<!---
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -62,7 +72,7 @@ SAND numbers:
         </tr>
     </table>
 <br />
-
+--->
 
 ### *License*
 
