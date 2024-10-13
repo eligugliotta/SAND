@@ -14,7 +14,7 @@ visual contents from these posts, with original post texts totaling 38,573 words
 Additionally, SAND includes an error analysis of the automatic image captioning, categorising errors into types such as object recognition, attribution, action, relation, context, and specificity issues. 
 SAND was created to facilitate comparative analysis of Saudi Arabia's tourism promotion strategies across different target audiences, incorporating both visual and textual data to enable comprehensive multimodal analysis of the country's self-representation in tourism marketing
 
-To access the SAND images, please contact me at **eli.gugliotta@gmail.com**.
+To access the SAND images, please contact me at **eli.gugliotta@gmail.com** to obtain the decryption key.
 In this repository, you will find SAND data, *i.e.* a file containing both types of text, the natural textual ones (anonymised posts), and the automatically-generated texts for image captions, as well as their manual validation. 
 
 Indeed, in the "SAND_texts.tsv" file we provide the following data:
