@@ -27,6 +27,23 @@ Indeed, in the "SAND_texts.tsv" file we provide the following data:
 * Classification by gender of the image subject (male/female/neutral).
 
 SAND numbers:
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Table Example</title>
+    <style>
+        table {
+            width: 50%;
+            margin: auto;
+            border-collapse: collapse;
+        }
+        th, td {
+            border: 1px solid black;
+            padding: 10px;
+            text-align: center; /* Centro i contenuti delle celle */
+        }
+    </style>
+</head>
     <table border="1" cellpadding="10" cellspacing="0" style="border-collapse: collapse; text-align: center;">
         <tr>
             <th colspan="2">TOTAL NUMBER OF POSTS</th>
