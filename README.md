@@ -38,11 +38,11 @@ SAND numbers:
 -->
 
 
-|                  | **Posts** | **Original Texts (words)** | **Valid. Captions (words)** |
+|                  | **Posts** | **Original Texts (tokens)** | **Valid. Captions (tokens)** |
 |:----------------:|:---------:|:--------------------------:|:---------------------------:|
-| **Arabic page**  |    122    |          17.049             |           4.830             |
-| **English page** |    127    |          21.524             |           5.019             |
-| **TOTAL**        |    249    |          38.573             |           9.849             |
+| **Arabic page**  |    122    |          2.882             |           645             |
+| **English page** |    127    |          4.137             |           676             |
+| **TOTAL**        |    249    |          7.019             |           1.321             |
 
 
 ### *License*
