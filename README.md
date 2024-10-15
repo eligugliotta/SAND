@@ -25,7 +25,8 @@ Indeed, in the "SAND_texts.tsv" file we provide the following data:
 * Manual validation of the previous level.
 * Error analysis.
 * Language classification (en/ar).
-* Classification by gender of the image subject (male/female/neutral).
+* Classification by gender of the image subject (male/female/mixed).
+  
 
 SAND numbers:
 
