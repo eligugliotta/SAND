@@ -19,14 +19,24 @@ In this repository, you will find SAND data, *i.e.* a file containing both types
 
 Indeed, in the "SAND_texts.tsv" file we provide the following data:
 
-* Image ID.
-* Original, but anonymised, texts published with each image.
-* Automatically-generated texts for image captioning.
-* Manual validation of the previous level.
-* Error analysis.
-* Language classification (en/ar).
-* Classification by gender of the image subject (male/female/mixed).
+* Image ID (ID_img): A unique identifier for each post/image.
+* Natural texts (Natural_text): The original texts published with each image, anonymized using the "\_anonymized_" token.
+* Generated texts (Generated_text): Automatically-generated texts for image captioning.
+* Validated generated texts (Validated_generated_text): Manual validation of the previous level.
+* Error analyses (Error_type): Classification of errors found in the generated captions.
+* Language (Language): Classification of the texts in English or Arabic (en/ar).
+* Processed text (Processed_text): The automatically processed version of the original texts.
+* Translation (Translated_text): The automatically translated Arabic text into English.
+
+<br />
+
+* Analysis of the image contents (Image_activity, Image_object, Image_context).
+* Gender classification (Gender_label): Classification by gender of the image subjects (male/female/mixed).
+
+The last levels of analysis were performed only on the "human SAND sub-corpus". This subset includes posts where a human subject was recognized and classified in the "Gender_label" column. Posts without a human subject are labeled "No_human" in the "Gender_label" column. For these "non-human" posts, the three columns for image content analyses contain the token "_not_analyzed_" to indicate that these analyses were not performed.
   
+
+<br />
 
 SAND numbers:
 
@@ -39,11 +49,11 @@ SAND numbers:
 -->
 
 
-|                  | **Posts** | **Original Texts (tokens)** | **Valid. Captions (tokens)** |
-|:----------------:|:---------:|:--------------------------:|:---------------------------:|
-| **Arabic page**  |    122    |          2.882             |           645             |
-| **English page** |    127    |          4.137             |           676             |
-| **TOTAL**        |    249    |          7.019             |           1.321             |
+|                  | **Posts** | **Original Texts (tokens)** | **Valid. Captions (tokens)** | **TOTAL** |
+|:----------------:|:---------:|:--------------------------:|:---------------------------:|:---------------------------:|
+| **Arabic page**  |    122    |          2.882             |           1.033      |   3.915    |
+| **English page** |    127    |          4.118             |           1.103      |   5.221    |
+| **TOTAL**        |    249    |          7.000             |           2.136      |   9.136    |
 
 
 ### *License*
@@ -56,6 +66,9 @@ Attribution-NonCommercial 3.0 Unported (CC BY-NC 3.0)
 ### *Citation* 
 
 Please cite this work as: 
+
+Asia in the mirror. Self-representations, Self-narratives, and Perception of the Other
+Peter Lang.
 
 ````bibtex
 @inproceedings{gugliotta-etal-wanlp2020, 
