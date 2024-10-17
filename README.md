@@ -49,11 +49,11 @@ SAND numbers:
 -->
 
 
-|                  | **Posts** | **Original Texts (tokens)** | **Valid. Captions (tokens)** | **TOTAL** |
+|                  | **Posts** | **Original Texts (words/tokens)** | **Valid. Captions (words/tokens)** | **TOTAL (words/tokens)** |
 |:----------------:|:---------:|:--------------------------:|:---------------------------:|:---------------------------:|
-| **Arabic page**  |    122    |          2.882             |           1.033      |   3.915    |
-| **English page** |    127    |          4.118             |           1.103      |   5.221    |
-| **TOTAL**        |    249    |          7.000             |           2.136      |   9.136    |
+| **Arabic page**  |    122    |          2.524 / 14.339      |           1.033 / 3.917     |   3.557 / 18.256    |
+| **English page** |    127    |          3.688 / 17.969      |           1.103 / 4.088     |   4.791 / 22.057    |
+| **TOTAL**        |    249    |          6.212 / 32.308      |           2.136 / 8.005     |   8.348 / 40.313    |
 
 
 ### *License*
@@ -67,8 +67,7 @@ Attribution-NonCommercial 3.0 Unported (CC BY-NC 3.0)
 
 Please cite this work as: 
 
-Asia in the mirror. Self-representations, Self-narratives, and Perception of the Other
-Peter Lang.
+
 
 ````bibtex
 @inproceedings{gugliotta-etal-wanlp2020, 
