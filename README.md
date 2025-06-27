@@ -3,7 +3,7 @@
 
 This repository provides a brief description and houses the Saudi Arabia Self-Narrative Dataset (SAND)
 * [Gugliotta, E. (2024). *Comparative Analysis of Textual and Visual Contents on Saudi Tourism Instagram Pages* forthcoming]()
-* [Gugliotta, E. (2024). *Gender Representation in Saudi Tourism Social Media* forthcoming]()
+* [Gugliotta, E. (2024). Gender Representation in Saudi Tourism Social Media. Testo e Senso, 1(28), 351-368.](file:///home/allyssa/Scaricati/02_studi+di+genere_Gugliotta-2.pdf)
 
 ### *Overview of SAND*
 
